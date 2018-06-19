@@ -2,7 +2,7 @@
 
 ## Cookie
 
-Simple cookie parser
+Cookie parser
 
 ### Usage
 
