@@ -2,6 +2,9 @@
 
 ## Cookie
 
+[![NPM Version](https://img.shields.io/npm/v/uc-cookie.svg?style=flat-square)](https://www.npmjs.com/package/uc-cookie)
+[![NPM Downloads](https://img.shields.io/npm/dt/uc-cookie.svg?style=flat-square)](https://www.npmjs.com/package/uc-cookie)
+
 Cookie parser
 
 ### Usage
